@@ -1,2 +1,2 @@
 ##################################################
-## Deeplabv3 Silh
+## Deeplabv3 Silhouette E
