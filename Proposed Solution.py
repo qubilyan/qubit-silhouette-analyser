@@ -1,2 +1,2 @@
 ##################################################
-## Deeplabv3 Silhouette Extra
+## Deeplabv3 Silhouette Extractor
