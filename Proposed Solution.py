@@ -1,4 +1,4 @@
 ##################################################
 ## Deeplabv3 Silhouette Extractor
 ##################################################
-## Takes video f
+## Takes video file as i
