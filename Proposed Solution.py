@@ -1,4 +1,4 @@
 ##################################################
 ## Deeplabv3 Silhouette Extractor
 ##################################################
-## Takes video file as input, genera
+## Takes video file as input, generates si
