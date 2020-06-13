@@ -4,4 +4,4 @@
 ## Takes video file as input, generates silhouette
 ## mask and saves it.
 ##################################################
-## A
+## Author: J
