@@ -11,4 +11,4 @@
 from __future__ import print_function
 import cv2
 import torch
-import torch.nn.func
+import torch.nn.functional a
