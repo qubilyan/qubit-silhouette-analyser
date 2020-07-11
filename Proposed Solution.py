@@ -16,4 +16,4 @@ from torchvision import transforms
 import time
 
 # Load pretrained model
-mod
+model = torch.h
