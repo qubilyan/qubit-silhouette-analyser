@@ -16,4 +16,4 @@ from torchvision import transforms
 import time
 
 # Load pretrained model
-model = torch.hub.load('pytorc
+model = torch.hub.load('pytorch/visi
