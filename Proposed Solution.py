@@ -15,4 +15,5 @@ import torch.nn.functional as F
 from torchvision import transforms
 import time
 
-# Load pretrained mod
+# Load pretrained model
+mod
