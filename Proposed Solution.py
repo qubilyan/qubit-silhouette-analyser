@@ -16,4 +16,4 @@ from torchvision import transforms
 import time
 
 # Load pretrained model
-model = torch.hub.load('pytorch/vision:v0.6.0', 'deeplabv3_resnet1
+model = torch.hub.load('pytorch/vision:v0.6.0', 'deeplabv3_resnet101', pre
