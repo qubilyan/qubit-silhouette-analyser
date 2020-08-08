@@ -18,3 +18,4 @@ import time
 # Load pretrained model
 model = torch.hub.load('pytorch/vision:v0.6.0', 'deeplabv3_resnet101', pretrained=True)
 # Segment people only for the purpose of human silhouette extraction
+people_class
