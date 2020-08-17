@@ -22,4 +22,4 @@ people_class = 15
 
 # Evaluate model
 model.eval()
-print ("Mod
+print ("Model has been load
