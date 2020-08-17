@@ -22,4 +22,4 @@ people_class = 15
 
 # Evaluate model
 model.eval()
-prin
+print ("Mod
