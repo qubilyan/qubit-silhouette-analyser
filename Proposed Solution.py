@@ -24,4 +24,4 @@ people_class = 15
 model.eval()
 print ("Model has been loaded.")
 
-blu
+blur = tor
