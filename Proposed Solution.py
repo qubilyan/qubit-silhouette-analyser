@@ -29,4 +29,5 @@ blur = torch.FloatTensor([[[[1.0, 2.0, 1.0],[2.0, 4.0, 2.0],[1.0, 2.0, 1.0]]]]) 
 # Use GPU if supported, for better performance
 if torch.cuda.is_available():
 	model.to('cuda')
-	blur = blur.to('
+	blur = blur.to('cuda')
+	
