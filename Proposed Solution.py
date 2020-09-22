@@ -31,4 +31,5 @@ if torch.cuda.is_available():
 	model.to('cuda')
 	blur = blur.to('cuda')
 	
-# Apply preprocessing (normalizati
+# Apply preprocessing (normalization)
+prep
