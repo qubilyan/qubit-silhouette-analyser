@@ -32,4 +32,4 @@ if torch.cuda.is_available():
 	blur = blur.to('cuda')
 	
 # Apply preprocessing (normalization)
-preprocess = tra
+preprocess = transforms.Co
