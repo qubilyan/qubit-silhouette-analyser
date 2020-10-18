@@ -33,4 +33,4 @@ if torch.cuda.is_available():
 	
 # Apply preprocessing (normalization)
 preprocess = transforms.Compose([
-	transforms.Normalize(mean=[0.485
+	transforms.Normalize(mean=[0.485, 0.
