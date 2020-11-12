@@ -37,4 +37,5 @@ preprocess = transforms.Compose([
 ])
 
 # Function to create segmentation mask
-def makeSegMask(img)
+def makeSegMask(img):
+    # S
