@@ -39,4 +39,4 @@ preprocess = transforms.Compose([
 # Function to create segmentation mask
 def makeSegMask(img):
     # Scale input frame
-	frame_data = t
+	frame_data = torch.F
