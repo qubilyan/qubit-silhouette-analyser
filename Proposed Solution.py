@@ -39,4 +39,6 @@ preprocess = transforms.Compose([
 # Function to create segmentation mask
 def makeSegMask(img):
     # Scale input frame
-	frame_data = torch.FloatTensor( img ) / 255.
+	frame_data = torch.FloatTensor( img ) / 255.0
+
+	input
