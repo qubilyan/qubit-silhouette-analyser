@@ -41,4 +41,4 @@ def makeSegMask(img):
     # Scale input frame
 	frame_data = torch.FloatTensor( img ) / 255.0
 
-	input_tensor = preprocess(frame_
+	input_tensor = preprocess(frame_data.permute(
