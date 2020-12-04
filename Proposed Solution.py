@@ -43,4 +43,4 @@ def makeSegMask(img):
 
 	input_tensor = preprocess(frame_data.permute(2, 0, 1))
     
-    # Create mini-bat
+    # Create mini-batch to be us
