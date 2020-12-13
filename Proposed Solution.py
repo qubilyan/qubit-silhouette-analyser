@@ -46,4 +46,4 @@ def makeSegMask(img):
     # Create mini-batch to be used by the model
 	input_batch = input_tensor.unsqueeze(0)
 
-    # Use GPU if supported, for better p
+    # Use GPU if supported, for better performanc
