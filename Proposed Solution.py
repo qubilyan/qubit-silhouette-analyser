@@ -47,4 +47,4 @@ def makeSegMask(img):
 	input_batch = input_tensor.unsqueeze(0)
 
     # Use GPU if supported, for better performance
-	if torch.cuda.
+	if torch.cuda.is_availa
