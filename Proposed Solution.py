@@ -50,4 +50,4 @@ def makeSegMask(img):
 	if torch.cuda.is_available():
 		input_batch = input_batch.to('cuda')
 
-	with torch.
+	with torch.no_grad()
