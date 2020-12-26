@@ -48,4 +48,6 @@ def makeSegMask(img):
 
     # Use GPU if supported, for better performance
 	if torch.cuda.is_available():
-		input_batch = input_batch.to('cu
+		input_batch = input_batch.to('cuda')
+
+	wi
