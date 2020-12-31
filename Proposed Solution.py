@@ -51,4 +51,4 @@ def makeSegMask(img):
 		input_batch = input_batch.to('cuda')
 
 	with torch.no_grad():
-		output = 
+		output = model(input
