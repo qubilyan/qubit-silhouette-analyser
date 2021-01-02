@@ -53,4 +53,4 @@ def makeSegMask(img):
 	with torch.no_grad():
 		output = model(input_batch)['out'][0]
 
-	segmentation = out
+	segmentation = output.argma
