@@ -55,4 +55,4 @@ def makeSegMask(img):
 
 	segmentation = output.argmax(0)
 
-	bgOut
+	bgOut = outp
