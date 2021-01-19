@@ -56,4 +56,4 @@ def makeSegMask(img):
 	segmentation = output.argmax(0)
 
 	bgOut = output[0:1][:][:]
-	a = (1.0 - F.relu(torch.tanh(bgOut * 0.30 - 
+	a = (1.0 - F.relu(torch.tanh(bgOut * 0.30 - 1.0))
