@@ -60,4 +60,4 @@ def makeSegMask(img):
 
 	people = segmentation.eq( torch.ones_like(segmentation).long().fill_(people_class) ).float()
 
-	people.
+	people.unsque
