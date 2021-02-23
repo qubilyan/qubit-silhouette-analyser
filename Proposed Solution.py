@@ -62,4 +62,4 @@ def makeSegMask(img):
 
 	people.unsqueeze_(0).unsqueeze_(0)
 	
-	
+	for i in
