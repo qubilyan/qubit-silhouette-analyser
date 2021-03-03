@@ -63,4 +63,4 @@ def makeSegMask(img):
 	people.unsqueeze_(0).unsqueeze_(0)
 	
 	for i in range(3):
-		people = F.
+		people = F.conv2d(peo
