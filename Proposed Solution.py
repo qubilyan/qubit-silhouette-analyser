@@ -64,3 +64,5 @@ def makeSegMask(img):
 	
 	for i in range(3):
 		people = F.conv2d(people, blur, stride=1, padding=1)
+
+	# Activ
