@@ -66,3 +66,4 @@ def makeSegMask(img):
 		people = F.conv2d(people, blur, stride=1, padding=1)
 
 	# Activation function to combine masks - F.hardtanh(a * b)
+	co
