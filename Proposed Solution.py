@@ -67,4 +67,4 @@ def makeSegMask(img):
 
 	# Activation function to combine masks - F.hardtanh(a * b)
 	combined_mask = F.relu(F.hardtanh(a * (people.squeeze().pow(1.5)) ))
-	combined_mask = com
+	combined_mask = combi
