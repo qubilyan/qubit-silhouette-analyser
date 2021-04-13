@@ -69,4 +69,4 @@ def makeSegMask(img):
 	combined_mask = F.relu(F.hardtanh(a * (people.squeeze().pow(1.5)) ))
 	combined_mask = combined_mask.expand(1, 3, -1, -1)
 
-	res = (combined_mask * 255.0).cpu().squeeze().byte().permute(1, 2, 0)
+	res = (combined_mask * 255.0).cpu().squeeze().byte().permute(1, 2, 0).num
