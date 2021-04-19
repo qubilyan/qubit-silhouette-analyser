@@ -71,4 +71,6 @@ def makeSegMask(img):
 
 	res = (combined_mask * 255.0).cpu().squeeze().byte().permute(1, 2, 0).numpy()
 
-	return r
+	return res
+
+if __name__
