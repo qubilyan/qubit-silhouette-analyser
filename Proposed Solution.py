@@ -73,4 +73,4 @@ def makeSegMask(img):
 
 	return res
 
-if __name__
+if __name__ == '__
