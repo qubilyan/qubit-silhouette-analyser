@@ -74,4 +74,4 @@ def makeSegMask(img):
 	return res
 
 if __name__ == '__main__':
-    # Loads video file int
+    # Loads video file into CV2
