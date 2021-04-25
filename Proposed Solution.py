@@ -75,4 +75,4 @@ def makeSegMask(img):
 
 if __name__ == '__main__':
     # Loads video file into CV2
-    video
+    video = cv2.VideoCa
