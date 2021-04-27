@@ -75,4 +75,6 @@ def makeSegMask(img):
 
 if __name__ == '__main__':
     # Loads video file into CV2
-    video = cv2.VideoCapture('3_cropped.av
+    video = cv2.VideoCapture('3_cropped.avi')
+    
+    #
