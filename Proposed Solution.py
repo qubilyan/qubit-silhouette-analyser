@@ -78,4 +78,4 @@ if __name__ == '__main__':
     video = cv2.VideoCapture('3_cropped.avi')
     
     # Get video file's dimensions
-    frame_width = int(vi
+    frame_width = int(video.ge
