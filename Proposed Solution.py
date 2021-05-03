@@ -79,4 +79,4 @@ if __name__ == '__main__':
     
     # Get video file's dimensions
     frame_width = int(video.get(3))
-   
+    fr
