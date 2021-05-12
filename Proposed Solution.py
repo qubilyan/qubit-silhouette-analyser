@@ -82,4 +82,4 @@ if __name__ == '__main__':
     frame_height = int(video.get(4))
     
     # Creates output video file
-   
+    out = cv2.
