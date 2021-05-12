@@ -81,4 +81,5 @@ if __name__ == '__main__':
     frame_width = int(video.get(3))
     frame_height = int(video.get(4))
     
-    # Creates output video 
+    # Creates output video file
+   
