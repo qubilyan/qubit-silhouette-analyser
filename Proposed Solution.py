@@ -82,4 +82,4 @@ if __name__ == '__main__':
     frame_height = int(video.get(4))
     
     # Creates output video file
-    out = cv2.VideoWriter('3_f
+    out = cv2.VideoWriter('3_fcn.avi',cv2.VideoWr
