@@ -85,4 +85,6 @@ if __name__ == '__main__':
     out = cv2.VideoWriter('3_fcn.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 30, (frame_width,frame_height))
 
     prev_frame_time = 0
-    new_frame_ti
+    new_frame_time = 0
+
+ 
