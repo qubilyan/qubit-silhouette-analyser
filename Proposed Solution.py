@@ -87,4 +87,4 @@ if __name__ == '__main__':
     prev_frame_time = 0
     new_frame_time = 0
 
-    while (v
+    while (video.isOpene
