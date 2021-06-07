@@ -88,4 +88,4 @@ if __name__ == '__main__':
     new_frame_time = 0
 
     while (video.isOpened):
-        # Read each 
+        # Read each frame one by
