@@ -89,4 +89,6 @@ if __name__ == '__main__':
 
     while (video.isOpened):
         # Read each frame one by one
-        success, img = video.rea
+        success, img = video.read()
+        
+ 
