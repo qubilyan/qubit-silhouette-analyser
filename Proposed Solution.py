@@ -91,4 +91,5 @@ if __name__ == '__main__':
         # Read each frame one by one
         success, img = video.read()
         
-        # Run if there are still frames lef
+        # Run if there are still frames left
+       
