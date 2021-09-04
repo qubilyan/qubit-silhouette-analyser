@@ -92,4 +92,4 @@ if __name__ == '__main__':
         success, img = video.read()
         
         # Run if there are still frames left
-        if (su
+        if (succes
