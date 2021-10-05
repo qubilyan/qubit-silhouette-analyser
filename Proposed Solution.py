@@ -94,4 +94,4 @@ if __name__ == '__main__':
         # Run if there are still frames left
         if (success):
             
-            # Apply background subtraction to extract foregrou
+            # Apply background subtraction to extract foreground (s
