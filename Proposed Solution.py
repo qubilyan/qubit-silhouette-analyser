@@ -97,4 +97,5 @@ if __name__ == '__main__':
             # Apply background subtraction to extract foreground (silhouette)
             mask = makeSegMask(img)
             
-            # Apply thresholding to convert mask to binary ma
+            # Apply thresholding to convert mask to binary map
+      
