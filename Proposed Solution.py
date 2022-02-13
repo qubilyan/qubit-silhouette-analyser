@@ -98,4 +98,5 @@ if __name__ == '__main__':
             mask = makeSegMask(img)
             
             # Apply thresholding to convert mask to binary map
-            ret,thresh = cv2.threshold(mask,127,255,cv2.THRESH_BI
+            ret,thresh = cv2.threshold(mask,127,255,cv2.THRESH_BINARY)
+      
