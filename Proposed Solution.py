@@ -99,4 +99,5 @@ if __name__ == '__main__':
             
             # Apply thresholding to convert mask to binary map
             ret,thresh = cv2.threshold(mask,127,255,cv2.THRESH_BINARY)
-      
+            
+  
