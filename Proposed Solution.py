@@ -101,4 +101,4 @@ if __name__ == '__main__':
             ret,thresh = cv2.threshold(mask,127,255,cv2.THRESH_BINARY)
             
             # Write processed frame to output file
-   
+          
