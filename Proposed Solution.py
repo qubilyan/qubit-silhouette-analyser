@@ -103,4 +103,4 @@ if __name__ == '__main__':
             # Write processed frame to output file
             out.write(thresh)
             
-            new_fr
+            new_frame_time
