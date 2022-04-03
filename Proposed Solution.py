@@ -104,4 +104,4 @@ if __name__ == '__main__':
             out.write(thresh)
             
             new_frame_time = time.time()
-            fps = 1/(new_frame_time-prev
+            fps = 1/(new_frame_time-prev_frame_time)
