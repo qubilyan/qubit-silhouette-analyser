@@ -107,4 +107,4 @@ if __name__ == '__main__':
             fps = 1/(new_frame_time-prev_frame_time)
             prev_frame_time = new_frame_time 
             fps = str(fps)
-            pri
+            print(fps)
