@@ -108,4 +108,4 @@ if __name__ == '__main__':
             prev_frame_time = new_frame_time 
             fps = str(fps)
             print(fps)
-            # cv2.rectangle(mask, (10, 2), (100,2
+            # cv2.rectangle(mask, (10, 2), (100,20), (255,
