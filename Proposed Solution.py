@@ -109,4 +109,4 @@ if __name__ == '__main__':
             fps = str(fps)
             print(fps)
             # cv2.rectangle(mask, (10, 2), (100,20), (255,255,255), -1)
-            # cv2.putText(mask, fps, (
+            # cv2.putText(mask, fps, (15, 1
