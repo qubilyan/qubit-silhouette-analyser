@@ -112,4 +112,5 @@ if __name__ == '__main__':
             # cv2.putText(mask, fps, (15, 15), cv2.FONT_HERSHEY_SIMPLEX, 0.5 , (0,0,0))
             
             # Show extracted silhouette only, by multiplying mask and input frame
-            final = cv2.bitwise_and(thresh
+            final = cv2.bitwise_and(thresh, img)
+   
