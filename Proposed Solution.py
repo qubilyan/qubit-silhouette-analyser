@@ -114,4 +114,4 @@ if __name__ == '__main__':
             # Show extracted silhouette only, by multiplying mask and input frame
             final = cv2.bitwise_and(thresh, img)
             
-            # Show
+            # Show current frame
