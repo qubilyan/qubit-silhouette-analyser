@@ -115,4 +115,4 @@ if __name__ == '__main__':
             final = cv2.bitwise_and(thresh, img)
             
             # Show current frame
-            cv2.
+            cv2.imshow('Silh
