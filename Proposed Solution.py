@@ -116,4 +116,4 @@ if __name__ == '__main__':
             
             # Show current frame
             cv2.imshow('Silhouette Mask', mask)
-            cv2.imshow('Extracted 
+            cv2.imshow('Extracted Silhoue
