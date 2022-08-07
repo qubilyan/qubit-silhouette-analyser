@@ -118,4 +118,4 @@ if __name__ == '__main__':
             cv2.imshow('Silhouette Mask', mask)
             cv2.imshow('Extracted Silhouette', final)
             
-            # Allow ea
+            # Allow early term
