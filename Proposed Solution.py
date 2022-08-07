@@ -118,4 +118,5 @@ if __name__ == '__main__':
             cv2.imshow('Silhouette Mask', mask)
             cv2.imshow('Extracted Silhouette', final)
             
-            # Allow early termination with Esc
+            # Allow early termination with Esc key
+      
