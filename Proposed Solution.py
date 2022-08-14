@@ -119,4 +119,4 @@ if __name__ == '__main__':
             cv2.imshow('Extracted Silhouette', final)
             
             # Allow early termination with Esc key
-            key = cv2.wa
+            key = cv2.waitK
