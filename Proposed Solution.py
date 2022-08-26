@@ -120,4 +120,4 @@ if __name__ == '__main__':
             
             # Allow early termination with Esc key
             key = cv2.waitKey(10)
-            
+            if key 
