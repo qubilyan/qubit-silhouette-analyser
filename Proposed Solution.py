@@ -123,4 +123,5 @@ if __name__ == '__main__':
             if key == 27:
                 break
         # Break when there are no more frames  
-        els
+        else:
+      
