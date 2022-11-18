@@ -126,4 +126,4 @@ if __name__ == '__main__':
         else:
             break
 
-    # Rele
+    # Release resou
