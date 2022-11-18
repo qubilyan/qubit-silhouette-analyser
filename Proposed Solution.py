@@ -126,4 +126,5 @@ if __name__ == '__main__':
         else:
             break
 
-    # Release resou
+    # Release resources
+    cv2.destr
