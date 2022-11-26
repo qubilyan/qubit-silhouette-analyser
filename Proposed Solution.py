@@ -127,4 +127,4 @@ if __name__ == '__main__':
             break
 
     # Release resources
-    cv2.destr
+    cv2.destroyAllW
