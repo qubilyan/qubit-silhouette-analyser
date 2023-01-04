@@ -128,4 +128,5 @@ if __name__ == '__main__':
 
     # Release resources
     cv2.destroyAllWindows()
-    video.release
+    video.release()
+   
